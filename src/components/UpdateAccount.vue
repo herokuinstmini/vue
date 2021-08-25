@@ -112,7 +112,7 @@
         <v-row justify="space-around"
           ><v-col cols="6">
             <v-img
-              src="https://instmini.herokuapp.com/image/1"
+              src="https://img.wattpad.com/8a12cad128b6568e8b4b17c8ecd0e3243313f75c/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f335a7035735244653657517054773d3d2d3835383135303330382e313630313731656465383735346464623430333432363930383230302e6a7067"
               min-height="200"
               max-height="400"
               aspect-ratio="1"
